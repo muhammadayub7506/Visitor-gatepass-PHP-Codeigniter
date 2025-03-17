@@ -1,4 +1,3 @@
-# Visitor-gatepass-PHP-Codeigniter
 # Visitor Gatepass Management System (CodeIgniter)
 
 ---
@@ -90,4 +89,4 @@ Open a pull request.
 📞 Contact
 Developer: Muhammad Ayub
 Email: muhammadayub7506@gmail.com
-GitHub: your-github-profile
+GitHub: https://github.com/muhammadayub7506
